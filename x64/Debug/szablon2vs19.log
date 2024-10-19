@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\kotel\OneDrive\Pulpit\template-project-2\template-project-2\main.cpp(95,5): error C2733: 'SDL_main': you cannot overload a function with 'extern "C"' linkage
+C:\Users\kotel\OneDrive\Pulpit\template-project-2\template-project-2\SDL2-2.0.10\include\SDL_main.h(121,29): message : see declaration of 'SDL_main'
+C:\Users\kotel\OneDrive\Pulpit\template-project-2\template-project-2\main.cpp(211,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kotel\OneDrive\Pulpit\template-project-2\template-project-2\main.cpp(210,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kotel\OneDrive\Pulpit\template-project-2\template-project-2\main.cpp(224,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\OneDrive\Pulpit\template-project-2\template-project-2\main.cpp(227,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\OneDrive\Pulpit\template-project-2\template-project-2\main.cpp(223,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\OneDrive\Pulpit\template-project-2\template-project-2\main.cpp(226,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

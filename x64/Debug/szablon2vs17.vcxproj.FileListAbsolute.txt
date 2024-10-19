@@ -1,0 +1,5 @@
+C:\Users\kotel\OneDrive\Pulpit\template-project-2\template-project-2\x64\Debug\szablon2vs17.exe
+C:\Users\kotel\OneDrive\Pulpit\King Slime\template-project-2\x64\Debug\szablon2vs17.exe
+C:\Users\kotel\OneDrive\Pulpit\Slime King\x64\Debug\szablon2vs17.exe
+C:\Users\kotel\OneDrive\Pulpit\studia\Slime King\x64\Debug\szablon2vs17.exe
+C:\Users\kotel\source\repos\SlimeKing\Slime King\x64\Debug\szablon2vs17.exe

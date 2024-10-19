@@ -1,0 +1,53 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (szablon2vs19.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(308,89): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(314,91): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(320,91): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(336,91): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(342,91): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(348,91): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(467,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(466,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(480,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(479,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(493,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(492,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(506,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(505,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(521,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(520,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(535,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(537,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(534,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(536,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(551,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(553,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(555,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(557,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(559,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(561,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(563,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(550,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(552,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(554,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(556,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(558,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(560,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(562,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(1017,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(1025,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(1072,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(1078,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(1071,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(1073,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(1075,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(1077,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(1084,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(1086,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(344): warning C4715: 'waterfallBotRound2': not all control paths return a value
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(338): warning C4715: 'waterfallBotRound1': not all control paths return a value
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(310): warning C4715: 'waterfallTopRound1': not all control paths return a value
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(316): warning C4715: 'waterfallTopRound2': not all control paths return a value
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(350): warning C4715: 'waterfallBotRound3': not all control paths return a value
+C:\Users\kotel\source\repos\SlimeKing\Slime King\main.cpp(322): warning C4715: 'waterfallTopRound3': not all control paths return a value
+  szablon2vs17.vcxproj -> C:\Users\kotel\source\repos\SlimeKing\Slime King\x64\Debug\szablon2vs17.exe
